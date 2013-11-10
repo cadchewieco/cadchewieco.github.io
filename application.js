@@ -65,7 +65,7 @@ $(function() {
       'Silicon Valley',
       'the Pacific Northwest',
       'North America',
-      'the Northern Hemisphere',
+      'the Northern Hemisphere'
       ];
     
     var array = null;
