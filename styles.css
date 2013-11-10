@@ -1,0 +1,57 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.heading {
+    background-color: #3b3b3b;
+    padding: 40px 0;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+    font-weight: 500;
+    margin: 0;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.button-wrapper {
+    text-align: center;
+}
+
+.button {
+    color: #3b3b3b;
+    border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: white;
+    background-color: #3b3b3b;
+}
+
+.what-wrapper {
+    margin: 50px 0;
+}
+
+.answer {
+    display: none;
+}
+
+.choosable {
+    text-decoration: underline;
+    cursor: pointer;
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+.choosable:hover {
+    background-color:  #3b3b3b;
+    color: white;
+}
