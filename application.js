@@ -42,24 +42,31 @@ $(function() {
 
   var chooseNewItem = function(type, currentValue, mustBeNew) {
     var qualities = [
-             'premier',
-             'leading',
-             'industry defining'
-            ];
+      'premier',
+      'thought leading',
+      'industry leading',
+      'industry defining'
+    ];
     var subjects = [
-            'augmented reality',
-            'aircraft scheduling and coordination management',
-            'artisanal software',
-            'personal emergency watercraft'
-             ];
+      'augmented reality',
+      'aircraft scheduling and coordination management',
+      'artisanal software',
+      'personal emergency watercraft'
+    ];
     var companies = [
-             'consultancy',
-             'firm',
-             'company',
-             'startup',
-             'development house'
-            ];
-    var locations = ['the Bay Area', 'the Pacific Northwest', 'North America', 'the Northern Hemisphere'];
+      'consultancy',
+      'firm',
+      'startup',
+      'development house'
+      ];
+    var locations = [
+      'the Bay Area',
+      'San Francisco',
+      'Silicon Valley',
+      'the Pacific Northwest',
+      'North America',
+      'the Northern Hemisphere',
+      ];
     
     var array = null;
     var replacement = '';
