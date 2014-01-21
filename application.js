@@ -46,18 +46,22 @@ $(function() {
       'thought leading',
       'industry leading',
       'preeminent',
+      'fastest growing',
+      'number one',
       'industry defining'
     ];
     var subjects = [
       'augmented reality',
       'aircraft scheduling and coordination management',
       'artisanal software',
+      'premium support',
       'personal emergency watercraft'
     ];
     var companies = [
       'consultancy',
       'firm',
       'startup',
+      'provider',
       'development house'
       ];
     var locations = [
@@ -66,6 +70,7 @@ $(function() {
       'Silicon Valley',
       'the Pacific Northwest',
       'North America',
+      'California',
       'the Northern Hemisphere'
       ];
     
