@@ -73,7 +73,7 @@ $(function() {
       'the Pacific Northwest',
       'North America',
       'California',
-      'the Peninsula'
+      'the Peninsula',
       'the Northern Hemisphere'
       ];
     
