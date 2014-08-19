@@ -48,6 +48,7 @@ $(function() {
       'preeminent',
       'fastest growing',
       'number one',
+      'most disruptive',
       'industry defining'
     ];
     var subjects = [
@@ -55,6 +56,7 @@ $(function() {
       'aircraft scheduling and coordination management',
       'artisanal software',
       'premium support',
+      'Google Apps Service',
       'personal emergency watercraft'
     ];
     var companies = [
@@ -71,6 +73,7 @@ $(function() {
       'the Pacific Northwest',
       'North America',
       'California',
+      'the Peninsula'
       'the Northern Hemisphere'
       ];
     
