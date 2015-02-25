@@ -57,6 +57,7 @@ $(function() {
       'artisanal software',
       'premium support',
       'Google Apps Service',
+      'agile maturity assessment',
       'personal emergency watercraft'
     ];
     var companies = [
