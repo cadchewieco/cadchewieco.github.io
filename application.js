@@ -65,6 +65,8 @@ $(function() {
       'firm',
       'startup',
       'provider',
+      'hacker hostel',
+      'incubator',
       'development house'
       ];
     var locations = [
